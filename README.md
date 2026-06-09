@@ -1,17 +1,14 @@
 # 👋 Olá, eu sou o Alisson
 
 🎓 Estudante de **Técnico em Desenvolvimento de Sistemas**
-💻 Desenvolvedor **Junior** e **Analista de Dados Junior**
 📊 Focado em **Python, análise de dados e desenvolvimento de software**
 
 ---
 
 ## 🚀 Sobre mim
 
-Atualmente estou em formação na área de tecnologia, com foco em **desenvolvimento de sistemas e análise de dados**.
+Atualmente estou em formação na área de tecnologia, com foco em **desenvolvimento de sistemas**.
 Tenho experiência em projetos envolvendo **Python para Data Science, análise exploratória de dados, visualização e manipulação de dados**.
-
-Também desenvolvo projetos envolvendo **SQL, Power BI e desenvolvimento web básico**.
 
 ---
 
@@ -27,11 +24,6 @@ Também desenvolvo projetos envolvendo **SQL, Power BI e desenvolvimento web bá
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Análise de Dados
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
 
 ---
 
