@@ -1,8 +1,6 @@
 # 👋 Olá, eu sou o Alisson
 
 🎓 Estudante de **Técnico em Desenvolvimento de Sistemas**
-📊 Focado em **Python, análise de dados e desenvolvimento de software**
-
 ---
 
 ## 🚀 Sobre mim
